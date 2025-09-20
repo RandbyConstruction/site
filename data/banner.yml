@@ -1,0 +1,15 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Randby Construction"
+subtitle: |
+  Family owned and licensed General Contractor based in Durham, NC and operating throughout the triangle.
+content : |
+  Specializing in remodels, decks, additions and exterior improvements;
+  as a triangle native I grew up appreciating the unique and beautiful architecture of many of our small towns and quiet neighborhoods.
+  Working in residential construction for the last 5 years has afforded me the opportunity to contribute to the area that I’ve loved my whole life and will continue to do so for many years to come! 
+
+button:
+  label : "Our Work"
+  link : "#first"
+image : "images/banner.jpg"
+

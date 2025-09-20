@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Living Spaces"
+content: |
+  Transform your interiors with custom renovations for living rooms, kitchens, basements, and more—spaces that fit your lifestyle.
+image: "Taylor living space after.jpg"

@@ -1,0 +1,6 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Home Repair"
+content: |
+  Reliable repairs for everything from doors and drywall to flooring and fixtures—keeping your home in top shape.
+image: "DH home repair before.jpg"
