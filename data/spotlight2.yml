@@ -4,3 +4,6 @@ title : "Bathrooms"
 content: |
   From modern updates to complete remodels, we design and build bathrooms that combine comfort, function, and style.
 video: "bathroom after.MP4"
+button:
+  link: "/#Gallery"
+  label: "See More"

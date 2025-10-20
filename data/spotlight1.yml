@@ -8,5 +8,5 @@ image:
   path: "Porch.jpg"
   rotation: "270"
 button:
-  link: "#gallery1"
+  link: "/#Gallery"
   label: "See More"

@@ -6,3 +6,6 @@ content: |
   Add function and flair to your yard with unique, purpose-built additions—like outdoor showers, garden enclosures, storage spaces, and custom utility structures—designed to make outdoor living more convenient and enjoyable.
 image:
   path: "OutdoorShower.jpg"
+button:
+  link: "/#Gallery"
+  label: "See More"

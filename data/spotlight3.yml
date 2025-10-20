@@ -6,3 +6,6 @@ content: |
   Transform your interiors with custom renovations for living rooms, kitchens, basements, and more—spaces that fit your lifestyle.
 image:
   path: "Taylor living space after.jpg"
+button:
+  link: "/#Gallery"
+  label: "See More"

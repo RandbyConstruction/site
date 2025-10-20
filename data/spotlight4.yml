@@ -5,3 +5,6 @@ content: |
   Reliable repairs for everything from doors and drywall to flooring and fixtures—keeping your home in top shape.
 image:
   path: "DH home repair before.jpg"
+button:
+  link: "/#Gallery"
+  label: "See More"
