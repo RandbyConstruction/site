@@ -4,4 +4,5 @@ id: "first"
 title : "Living Spaces"
 content: |
   Transform your interiors with custom renovations for living rooms, kitchens, basements, and more—spaces that fit your lifestyle.
-image: "Taylor living space after.jpg"
+image:
+  path: "Taylor living space after.jpg"

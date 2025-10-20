@@ -7,12 +7,22 @@
             <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
         </ul>{{ end }}
     </div>
-    {{ with .image }}<div class="image">
-        <img src="{{ . }}" alt="" />
-    </div>{{ end }}
-    {{ with .video }}<div class="video">
+    {{ with .image }}
+    <div class="image" style="overflow: hidden">
+      <img
+        src="{{ .path }}"
+        alt="" 
+        {{ with .rotation }}
+        style="rotate: {{ . }}deg"
+        {{ end }}
+        />
+    </div>
+    {{ end }}
+    {{ with .video }}
+    <div class="video">
       <video width="480" height="640" autoplay muted>
         <source src="{{ . }}" type="video/mp4"/>
       <video />
-    </div>{{ end }}
+    </div>
+    {{ end }}
 </section>

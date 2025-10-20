@@ -1,0 +1,35 @@
+## GALLERY ONE ##
+title: "Gallery"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+ This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+pictures:
+  - title: "Porch - Before"
+    image: "IMG_2539.JPG"
+    thumb: "IMG_2539.JPG"
+    button: "See More"
+
+  - title: "Porch - After"
+    image: "IMG_2544.JPG"
+    thumb: "IMG_2544.JPG"
+    button: "See More"
+
+  - title: "Outdoor Shower - Before"
+    image: "IMG_2499.jpg"
+    thumb: "IMG_2499.jpg"
+    button: "See More"
+
+  - title: "Outdoor Shower - After"
+    image: "IMG_2503.jpg"
+    thumb: "IMG_2503.jpg"
+    button: "See More"
+
+  - title: "Outdoor Stairs - Before"
+    image: "Taylor stairs before .jpg"
+    thumb: "Taylor stairs before .jpg"
+    button: "See More"
+
+  - title: "Outdoor Stairs - After"
+    image: "Taylor stairs middle.JPG"
+    thumb: "Taylor stairs middle.JPG"
+    button: "See More"
