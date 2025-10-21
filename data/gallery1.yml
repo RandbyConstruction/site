@@ -32,3 +32,23 @@ pictures:
     image: "Taylor stairs middle.JPG"
     thumb: "Taylor stairs middle.JPG"
     button: "See More"
+
+  - title: "Home Repair - Before"
+    image: "DH home repair before.jpg"
+    thumb: "DH home repair before.jpg"
+    button: "See More"
+
+  - title: "Home Repair - After"
+    image: "dh home repair after.JPG"
+    thumb: "dh home repair after.JPG"
+    button: "See More"
+
+  - title: "Accessory Dwellings - Before"
+    image: "IMG_2286.jpg"
+    thumb: "IMG_2286.jpg"
+    button: "See More"
+
+  - title: "Accessory Dwellings - After"
+    image: "IMG_2579.JPG"
+    thumb: "IMG_2579.JPG"
+    button: "See More"

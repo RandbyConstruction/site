@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Accessory Dwellings"
+content: |
+  Expand your property’s potential with fully equipped guest houses, in-law suites, and backyard cottages built for comfort, privacy, and lasting value.
+image:
+  path: "IMG_2579.JPG"
+button:
+  link: "/#Gallery"
+  label: "See More"
