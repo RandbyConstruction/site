@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Outdoor Structures"
 content: |
-  Add function and flair to your yard with unique, purpose-built additions—like outdoor showers, garden enclosures, storage spaces, and custom utility structures—designed to make outdoor living more convenient and enjoyable.
+  Add function and flair to your yard with unique, purpose-built additions—like outdoor showers, garden enclosures, storage spaces, and custom utility structures. Each designed to make outdoor living more convenient and enjoyable.
 image:
   path: "OutdoorShower.jpg"
 button:
