@@ -62,3 +62,8 @@ pictures:
     image: "IMG_2579.JPG"
     thumb: "IMG_2579.JPG"
     button: "See More"
+
+  - title: "Standalone Structures"
+    image: "IMG_2702.JPG"
+    thumb: "IMG_2702.JPG"
+    button: "See More"

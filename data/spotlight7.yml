@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Standalone Structures"
+content: |
+  We design and build durable, custom standalone structures that enhance your property’s functionality and value. From garages and workshops to sheds and outbuildings, each project is tailored to your needs and built to last.
+image:
+  path: "IMG_2705.JPG"
+button:
+  link: "/#Gallery"
+  label: "See More"
