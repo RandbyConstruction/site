@@ -7,63 +7,76 @@ pictures:
     image: "IMG_2539.JPG"
     thumb: "IMG_2539.JPG"
     button: "See More"
+    transform: 270
 
   - title: "Porch - After"
     image: "IMG_2544.JPG"
     thumb: "IMG_2544.JPG"
     button: "See More"
+    transform: 270
 
   - title: "Porch - After"
     image: "IMG_2195.jpg"
     thumb: "IMG_2195.jpg"
     button: "See More"
+    transform: 0
 
   - title: "Patio - After"
     image: "IMG_2161.jpg"
     thumb: "IMG_2161.jpg"
     button: "See More"
+    transform: 0
 
   - title: "Outdoor Shower - Before"
     image: "IMG_2499.jpg"
     thumb: "IMG_2499.jpg"
     button: "See More"
+    transform: 0
 
   - title: "Outdoor Shower - After"
     image: "IMG_2503.jpg"
     thumb: "IMG_2503.jpg"
     button: "See More"
+    transform: 0
 
   - title: "Outdoor Stairs - Before"
     image: "Taylor stairs before .jpg"
     thumb: "Taylor stairs before .jpg"
     button: "See More"
+    transform: 0
 
   - title: "Outdoor Stairs - After"
     image: "Taylor stairs middle.JPG"
     thumb: "Taylor stairs middle.JPG"
     button: "See More"
+    transform: 0
 
   - title: "Home Repair - Before"
     image: "DH home repair before.jpg"
     thumb: "DH home repair before.jpg"
     button: "See More"
+    transform: 0
 
   - title: "Home Repair - After"
     image: "dh home repair after.JPG"
     thumb: "dh home repair after.JPG"
     button: "See More"
+    transform: 0
 
   - title: "Accessory Dwellings - Before"
     image: "IMG_2286.jpg"
     thumb: "IMG_2286.jpg"
     button: "See More"
+    transform: 0
 
   - title: "Accessory Dwellings - After"
     image: "IMG_2579.JPG"
     thumb: "IMG_2579.JPG"
     button: "See More"
+    transform: 0
 
   - title: "Standalone Structures"
     image: "IMG_2702.JPG"
     thumb: "IMG_2702.JPG"
     button: "See More"
+    transform: 0
