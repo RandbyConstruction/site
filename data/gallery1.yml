@@ -3,6 +3,18 @@ title: "Gallery"
 id: "Gallery"
 style: "style2 medium lightbox onscroll-fade-in"
 pictures:
+  - title: "Elevated Deck"
+    image: "IMG_3017.jpg"
+    thumb: "IMG_3017.jpg"
+    button: "See More"
+    transform: 0
+
+  - title: "Deck"
+    image: "IMG_3126.jpg"
+    thumb: "IMG_3126.jpg"
+    button: "See More"
+    transform: 0
+
   - title: "Porch - Before"
     image: "IMG_2539.JPG"
     thumb: "IMG_2539.JPG"
